@@ -6,15 +6,18 @@ h1 {
   text-align: center;
 }
 
-#nav-bar {
+/* nav {
   position: sticky;
   top: 0;
   z-index: 10; 
-}
+} */
 
 .navbar {
   background-image: linear-gradient(to right, #dcbfe0, #5f1782);
   padding: 0 !important; 
+  position: sticky;
+  top: 0;
+  z-index: 10; 
 } 
 
 .navbar-nav li {
@@ -36,14 +39,19 @@ h1 {
 
 #banner {
   background-color: rgb(232, 196, 238);
-  padding-top: 5%; 
+  padding-top: 2%; 
+  padding-bottom: 2%;
+  text-align: center;
 }
 
-
+section {
+  margin-top: 5px;
+  padding: 1%;
+}
 footer {
   text-align: center;
 }
 
 #enquiries {
-  background-color: #dcbfe0;
+  background-color: #f0def1;
 }
