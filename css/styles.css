@@ -28,24 +28,17 @@ h1 {
   text-align: left;
 }
 
-/* .navbar-toggler {
+.navbar-toggler {
   outline: none !important;
-} */
+}
 
 /* banner section  */
 
 #banner {
-  background-color: rgb(209, 181, 214);
+  background-color: rgb(232, 196, 238);
   padding-top: 5%; 
 }
 
-/* Set the size of the div element that contains the map */
-#map {
-  height: 400px;
-  /* The height is 400 pixels */
-  width: 100%;
-  /* The width is the width of the web page */
-}
 
 footer {
   text-align: center;
