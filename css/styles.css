@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10; 
+}
+
+.navbar {
+  background-image: linear-gradient(to right, #dcbfe0, #5f1782);
+  padding: 0 !important; 
+} 
+
+.navbar-nav li {
+  padding: 0 10px;
+}
+
+.navbar-nav li a {
+  color: #fff !important;
+  font-weight: 600;
+  float: right;
+  text-align: left;
+}
+
+/* .navbar-toggler {
+  outline: none !important;
+} */
+
+/* banner section  */
+
+#banner {
+  background-color: aquamarine;
+  padding-top: 5%; 
+}
